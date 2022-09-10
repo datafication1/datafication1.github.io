@@ -6,8 +6,6 @@ categories: [ Jekyll, tutorial ]
 image: assets/images/posts/Prem_Result_Predictor/stadium.jpg
 ---
 
-Introduction
-
 The sports betting industry is worth X million pounds and is only going to increase with the proliferation of online gambling. There are streams of pundits on twitter that offer predictions based on intensive studying of form.Most data models and pundits will use 'team data' to predict results such as team goals scored, team xG and team recent form. What this data fails to take into account is that team selection often changes. Analysing only 'team data' does not account for:
 <ul>
 <li>Injuries to key players</li>
